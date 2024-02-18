@@ -1,0 +1,484 @@
+.sign-in-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in-sign-in {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(102, 102, 102, 1);
+}
+.sign-in-divapp {
+  display: flex;
+  padding: 0 230px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in-divconstrain {
+  width: 980px;
+  display: flex;
+  padding: 120px 0 0;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.sign-in-divsignincontainer {
+  width: 980px;
+  height: 800px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.sign-in-divsignintitle {
+  top: 0px;
+  left: 320.5199890136719px;
+  width: 403px;
+  display: flex;
+  padding: 0 0 0.5px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text {
+  color: var(--dl-color-storybird.com-abbey);
+  height: auto;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Georgia;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-div {
+  top: 75px;
+  left: 490px;
+  width: 1px;
+  height: 666px;
+  position: absolute;
+}
+.sign-in-divbottomfootermargin {
+  top: 741px;
+  left: 0px;
+  width: 980px;
+  display: flex;
+  padding: 0 0 41px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.sign-in-divbottomfooter {
+  display: flex;
+  padding: 0 256.6600036621094px 0 256.6400146484375px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.sign-in-divbottomfootermenus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sign-in-linkmargin {
+  display: flex;
+  padding: 0 41px 0 0;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text02 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  font-size: 16.03125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.sign-in-linkmargin1 {
+  display: flex;
+  padding: 0 41px 0 0;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text04 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  font-size: 15.328125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.sign-in-linkmargin2 {
+  display: flex;
+  padding: 0 41px 0 0;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text06 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  font-size: 16.03125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.sign-in-link {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text08 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  font-size: 15.046875px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.sign-in-divformlayoutmargin {
+  top: 28px;
+  left: 0px;
+  width: 980px;
+  display: flex;
+  padding: 47px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.sign-in-divformlayout {
+  width: 980px;
+  height: 1px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.sign-in-divsignincontent {
+  top: 47px;
+  left: 298px;
+  width: 384px;
+  height: 470px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.15000000596046448) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-storybird.com-nero);
+}
+.sign-in-divgoogleloginmargin {
+  top: 0px;
+  left: 42px;
+  width: 300px;
+  height: 101px;
+  display: flex;
+  padding: 61px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.sign-in-divgooglelogin {
+  display: flex;
+  padding: 6px 54.9900016784668px 6px 54.97999954223633px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-storybird.com-nero);
+}
+.sign-in-imgmargin {
+  height: 28px;
+  display: flex;
+  padding: 0 12.5px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.sign-in-icongoogleloginpng {
+  width: 27px;
+  height: 27px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("public/external/tq_bvwzh2aeia-2one-200w.png");
+}
+.sign-in-divgooglelogintext {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text10 {
+  color: var(--dl-color-storybird.com-abbey);
+  height: auto;
+  font-size: 16.171875px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-divlogintexttipmargin {
+  top: 101px;
+  left: 93.25px;
+  width: 197px;
+  display: flex;
+  padding: 28px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text12 {
+  color: var(--dl-color-storybird.com-silver);
+  height: auto;
+  font-size: 15.75px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-input {
+  top: 176px;
+  left: 43px;
+  width: 298px;
+  height: 38px;
+  display: flex;
+  padding: 8.5px 7px;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+  background-color: var(--dl-color-storybird.com-nero);
+}
+.sign-in-divplaceholder {
+  display: flex;
+  padding: 0 62.90999984741211px 1px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text14 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.sign-in-inputmargin {
+  top: 215px;
+  left: 42px;
+  width: 300px;
+  height: 76px;
+  display: flex;
+  padding: 17px 1px 21px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.sign-in-input1 {
+  height: 38px;
+  display: flex;
+  padding: 8.5px 7px;
+  overflow: hidden;
+  align-self: stretch;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(214, 214, 214, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+  background-color: var(--dl-color-storybird.com-nero);
+}
+.sign-in-divplaceholder1 {
+  display: flex;
+  padding: 0 204.97000122070312px 1px 0;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text16 {
+  color: var(--dl-color-storybird.com-silverchalice);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+.sign-in-divbtnsiginsubmit {
+  top: 291px;
+  left: 42px;
+  width: 300px;
+  height: 40px;
+  display: flex;
+  padding: 6px 119.13999938964844px;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(117, 190, 218, 1) 0%, rgba(80, 151, 179, 1) 100%);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-storybird.com-linearvikinghippieblue);
+}
+.sign-in-spanidsignin {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in-text18 {
+  color: var(--dl-color-storybird.com-nero);
+  height: auto;
+  font-size: 18.75px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-divbtnforgetpasswordmargin {
+  top: 331px;
+  left: 109.16999816894531px;
+  width: 166px;
+  display: flex;
+  padding: 16px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-divbtnforgetpassword {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.sign-in-text20 {
+  color: var(--dl-color-storybird.com-shakespeare);
+  height: auto;
+  font-size: 15.328125px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-divdivider {
+  top: 381px;
+  left: 42px;
+  width: 300px;
+  height: 1px;
+  position: absolute;
+  border-color: rgba(224, 224, 224, 1);
+}
+.sign-in-divbtnsignupmargin {
+  top: 382px;
+  left: 42px;
+  width: 300px;
+  height: 64px;
+  display: flex;
+  padding: 24px 0 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.sign-in-divbtnsignup {
+  display: flex;
+  padding: 6px 49.970001220703125px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(224, 224, 224, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-storybird.com-abbey);
+}
+.sign-in-spanbtnsignuptext {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign-in-text22 {
+  color: var(--dl-color-storybird.com-nero);
+  height: auto;
+  font-size: 19.375px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.sign-in-sblogopng {
+  top: 0px;
+  left: 443px;
+  width: 94px;
+  height: 94px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 47px;
+  background-color: rgba(255, 255, 255, 1);
+}
