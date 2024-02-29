@@ -1,0 +1,368 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.example-RwD {
+  width: 100%;
+  height: 190.52rem;
+  background-color: #03a9f4;
+}
+.example-RwD .main-KWo {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.example-RwD .main-KWo .divblog-header-qzw {
+  margin-bottom: 7.699rem;
+  width: 100%;
+  height: 20.759rem;
+  position: relative;
+  background-color: #01579b;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .divblog-header-qzw .header-background-lightbluesvg-fill-AXR {
+  width: 144rem;
+  height: 20.759rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K {
+  width: 120.042rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 12rem;
+  top: 3.2rem;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K .form-bMq {
+  margin: 0rem 0rem 4.8rem 70rem;
+  width: 50.042rem;
+  height: 4.6rem;
+  position: relative;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K .form-bMq .input-search-utK {
+  box-sizing: border-box;
+  padding: 0.85rem 1.7rem 0.55rem 1.7rem;
+  width: 42.642rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #d1d6dc;
+  background-color: #ffffff;
+  border-radius: 0.3rem 0 0 0.3rem;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K .form-bMq .input-search-utK .divplaceholder-cGw {
+  margin-right: 31.842rem;
+  width: 7.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 2.1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #999999;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K .form-bMq .button-search-DGj {
+  width: 7.4rem;
+  height: 4.595rem;
+  position: absolute;
+  left: 42.642rem;
+  top: 0.0025rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 0.6rem 0.6rem 0;
+}
+.example-RwD .main-KWo .divblog-header-qzw .divcontent-wrapper-U2K .lost-in-the-woods-6rK {
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1999999682;
+  letter-spacing: -0.096rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 {
+  margin: 0rem 12rem 15.2rem 12rem;
+  box-sizing: border-box;
+  padding-top: 2.239rem;
+  width: calc(100% - 24rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .use-this-story-starter-to-tell-your-own-tale-of-being-lost-in-the-woods-be-sure-to-detail-how-you-found-your-way-Wf9 {
+  margin-bottom: 3.189rem;
+  display: flex;
+  font-size: 1.99rem;
+  font-weight: 400;
+  line-height: 1.2512562862;
+  color: #d1f3ff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 {
+  height: 43.2rem;
+  display: flex;
+  column-gap: 0.6rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .img-margin-ddH {
+  margin-bottom: 1.2rem;
+  width: 38.4rem;
+  height: 38.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .button-ZG3 {
+  width: 23.555rem;
+  height: 3.6rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.1199999973), 0 0.3rem 0.1rem rgba(0, 0, 0, 0.200000003), 0 0.2rem 0.2rem rgba(0, 0, 0, 0.1400000006);
+  background-color: #c62828;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .button-ZG3 .cached-h7M {
+  width: 14.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: -4.3828rem;
+  top: 0.714rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Material Icons, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .button-ZG3 .remix-into-my-account-NUP {
+  width: 18rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 3.9945rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 2.5714285714;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .button-ZG3 .spanmdl-buttonripple-container-SUF {
+  width: 23.555rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .auto-group-m9zp-V1H .button-ZG3 .spanmdl-buttonripple-container-SUF .spanmdl-ripple-mmR {
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.001);
+  border-radius: 2.5rem;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .img-margin-Cbq {
+  width: 38.4rem;
+  height: 38.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .auto-group-wmcq-Qc7 .divpixton-embedded-comic-mb5 .img-margin-wJX {
+  width: 38.4rem;
+  height: 38.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q {
+  box-sizing: border-box;
+  padding: 5.946rem 13.2rem 11.369rem 13.2rem;
+  width: 100%;
+  height: 95.734rem;
+  background-color: #0277bd;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj {
+  width: 84.199rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .related-ideas-XnX {
+  margin-bottom: 3.654rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.84rem;
+  font-weight: 700;
+  line-height: 1.1979166191;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM {
+  width: 100%;
+  height: 70.165rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF {
+  width: 24.155rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-i6K {
+  margin-bottom: 6.589rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-i6K .link-38b {
+  margin-bottom: 1.833rem;
+  width: 24.155rem;
+  height: 24.155rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-i6K .school-days-should-be-shorter-aPR {
+  max-width: 23.8rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1999999682;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-66s {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-66s .link-Eis {
+  margin-bottom: 1.833rem;
+  width: 24.155rem;
+  height: 24.155rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-2c6q-NYF .divblog-related-postscontent-66s .there-should-be-no-homework-B8K {
+  max-width: 23.3rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1999999682;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ {
+  box-sizing: border-box;
+  padding-left: 5.889rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-qTm {
+  margin-right: 5.845rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-qTm .link-yps {
+  margin-bottom: 1.833rem;
+  width: 24.155rem;
+  height: 24.155rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-qTm .video-games-are-bad-for-kids-7RH {
+  max-width: 21rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1999999682;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-STZ {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-STZ .link-bLT {
+  margin-bottom: 1.8325rem;
+  width: 24.155rem;
+  height: 24.155rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.example-RwD .main-KWo .section-59q .divcontent-wrapper-oLj .divblog-related-postslist-eMM .auto-group-x3js-hMZ .divblog-related-postscontent-STZ .climate-change-is-caused-by-human-activity-8LP {
+  max-width: 22.7rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.1999999682;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}

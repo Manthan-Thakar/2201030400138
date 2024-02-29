@@ -1,0 +1,323 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.loginpage-dfu {
+  width: 100%;
+  height: 81.04rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #03a9f4;
+}
+.loginpage-dfu .main-kkX {
+  width: 100%;
+  height: 95.64rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f6f6f6;
+  border-radius: 2rem;
+}
+.loginpage-dfu .main-kkX .divw-w9-VTD {
+  margin-bottom: 9.6rem;
+  width: 144rem;
+  height: 6.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 {
+  width: 100%;
+  height: 79.84rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .divleft-side-xrb {
+  width: 51rem;
+  height: 79.84rem;
+  position: absolute;
+  left: 37rem;
+  top: 0;
+  border-radius: 2rem 0 0 2rem;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .divleft-side-xrb .divleft-side-6T1 {
+  width: 31.5rem;
+  height: 49.44rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 30.4rem;
+  border-radius: 2rem 0 0 2rem;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .divleft-side-xrb .image-6-1K5 {
+  width: 31.5rem;
+  height: 49.45rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq {
+  width: 29.661rem;
+  height: 37.48rem;
+  position: absolute;
+  left: 73.013rem;
+  top: 6rem;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o {
+  box-sizing: border-box;
+  padding-bottom: 2.98rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ {
+  margin: 0rem 0.521rem 3.2rem 0rem;
+  width: calc(100% - 0.521rem);
+  height: 3.52rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-V7m {
+  margin-right: 0rem;
+  box-sizing: border-box;
+  padding: 0.91rem 0.81rem 0.91rem 0.76rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6b7280;
+  background-color: #f6f6f6;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-V7m .d1c98974-c62d-4071-8bd2-ab859fc5f4e9-1M1 {
+  margin: 0.05rem 0.45rem 0.05rem 0rem;
+  width: 1.6rem;
+  height: calc(100% - 0.1rem);
+  overflow: hidden;
+  position: relative;
+  background-color: #f6f6f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-V7m .sign-in-with-google-5rf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.28rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-XCs {
+  box-sizing: border-box;
+  padding: 0.91rem 0.76rem 0.91rem 0.76rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #6b7280;
+  background-color: #f6f6f6;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-XCs .c1561b-8152-4d05-b617-0680a7629a0e-rkw {
+  margin: 0.05rem 0.4rem 0.05rem 0rem;
+  width: 1.6rem;
+  height: calc(100% - 0.1rem);
+  overflow: hidden;
+  position: relative;
+  background-color: #f6f6f6;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divbtn-group-mhZ .button-XCs .sign-in-with-apple-kLX {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.28rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divh2d-2a5aeb0c-qcs {
+  margin-bottom: 2.58rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divh2d-2a5aeb0c-qcs .before-yUB {
+  margin: 0.1rem 1.756rem 0rem 0rem;
+  width: 11.8268rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divh2d-2a5aeb0c-qcs .or-VxK {
+  margin-right: 1.702rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .divh2d-2a5aeb0c-qcs .after-DtK {
+  margin-top: 0.1rem;
+  width: 11.8268rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .label-email-ktF {
+  margin-bottom: 0.42rem;
+  display: flex;
+  font-size: 1.44rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .input-Gbh {
+  margin-bottom: 1.96rem;
+  box-sizing: border-box;
+  padding: 1.36rem 2.16rem 1.36rem 2.16rem;
+  width: 29.508rem;
+  height: 4.42rem;
+  border: solid 0.1rem #cccccc;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .input-Gbh .divplaceholder-Bif {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.36rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #757575;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .label-password-5JF {
+  margin-bottom: 0.42rem;
+  display: flex;
+  font-size: 1.44rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .input-bGb {
+  box-sizing: border-box;
+  padding: 1.36rem 2.16rem 1.36rem 2.16rem;
+  width: 29.524rem;
+  height: 4.42rem;
+  border: solid 0.1rem #cccccc;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .auto-group-m4hj-r4o .input-bGb .divplaceholder-vZm {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.36rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #757575;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .button-zpX {
+  margin-bottom: 2.36rem;
+  width: 100%;
+  height: 3.8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.41rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.1rem;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #6b7280;
+  box-sizing: border-box;
+  background-color: #f6f6f6;
+  border-radius: 0.5rem;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .divlinks-rLw {
+  margin-right: 4.461rem;
+  width: calc(100% - 4.461rem);
+  display: flex;
+  align-items: center;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .divlinks-rLw .forgot-password-b3d {
+  margin-right: 0.1rem;
+  display: flex;
+  font-size: 1.41rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.1rem;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .form-vwq .divlinks-rLw .do-not-have-an-account-JTq {
+  display: flex;
+  font-size: 1.41rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.1rem;
+  color: #000000;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.loginpage-dfu .main-kkX .auto-group-fxa5-De7 .divmuipaper-root-28w {
+  width: 144rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 0;
+  top: 64.5rem;
+  overflow: hidden;
+  box-shadow: 0 -0.1rem 0.2rem rgba(0, 0, 0, 0.150000006);
+  background-color: #673ab7;
+}
